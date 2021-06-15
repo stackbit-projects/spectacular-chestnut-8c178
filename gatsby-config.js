@@ -9,7 +9,7 @@ module.exports = {
 
         // important to set the main text that appears in the hero
         hero: {
-            heading: `A collection of contributions by members of the Garden, Edyfi, ATMOS, and Mission Control co-living communities. Showcasing the everyday brilliance of Gen-Z tech creatives.`,
+            heading: `A collection of contributions by members of four San Francisco co-living communities. Showcasing the everyday brilliance of Gen-Z tech creatives.`,
             maxWidth: 652,
         },
         social: [
